@@ -1,7 +1,6 @@
 # FlaskWebSite
 Criando um site em Python com Flask e Bootstrap.  
   
-{% block body %}
     <div class="container mt-2">
         <h1>Bem vindo!</h1>
         <p>Projeto: Criando um site em
@@ -29,4 +28,3 @@ Criando um site em Python com Flask e Bootstrap.
         </div>
         {% endfor %}
     </div>
-{% endblock %}
