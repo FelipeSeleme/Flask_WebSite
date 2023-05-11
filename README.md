@@ -1,16 +1,8 @@
 # FlaskWebSite
 Criando um site em Python com Flask e Bootstrap.  
   
-    <div class="container mt-2">
-        <h1>Bem vindo!</h1>
-        <p>Projeto: Criando um site em
-            <a style="text-decoration: none" href="https://www.python.org/">Python</a> com
-            <a style="text-decoration: none" href="https://flask.palletsprojects.com/">Flask</a> e
-            <a style="text-decoration: none" href="https://getbootstrap.com/">Bootstrap</a>.
-            <br>
-            O site é uma simuação bem-humorada de rede social para heróis aposentados que passam tempo demais na internet.
-        </p>
-        <hr>
+O site é uma simuação bem-humorada de rede social para heróis aposentados que passam tempo demais na internet.
+     <hr>
     </div>
     <div class="container mt-2">
         {% for post in posts %}
